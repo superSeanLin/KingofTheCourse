@@ -1,6 +1,6 @@
-KingofTheCourse
+KingofTheCourse By Sean Lin
 =========================
-**抢！**
+**抢！** 
 -------------------------
 So we are using Requests library.
 
